@@ -1,0 +1,14 @@
+{
+  "id": "Record-player",
+  "name": "唱片播放器",
+  "version": "1.0.0",
+ "description":"仿酷狗唱片播放器",
+  "author": "xiaotian2333",
+  "main": "index.js",
+  "capabilities": {
+    "localFiles": true
+  },
+  "requires": {
+    "echoMusicVersion": ">=2.2.6"
+  }
+}

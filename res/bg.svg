@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 1304" width="720" height="1304" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;">
+  <defs>
+    <clipPath id="__lottie_element_2">
+      <rect width="720" height="1304" x="0" y="0"/>
+    </clipPath>
+    <clipPath id="__lottie_element_4">
+      <path d="M0,0 L400,0 L400,400 L0,400z"/>
+    </clipPath>
+    <g id="__lottie_element_7">
+      <g transform="matrix(1,0,0,1,200,200)" opacity="1" style="display: block;">
+        <path fill="rgb(255,255,255)" fill-opacity="1" d=" M0,-200 C110.37999725341797,-200 200,-110.37999725341797 200,0 C200,110.37999725341797 110.37999725341797,200 0,200 C-110.37999725341797,200 -200,110.37999725341797 -200,0 C-200,-110.37999725341797 -110.37999725341797,-200 0,-200z"/>
+      </g>
+    </g>
+    <mask id="__lottie_element_7_1" mask-type="alpha">
+      <use xlink:href="#__lottie_element_7"/>
+    </mask>
+    <clipPath id="__lottie_element_23">
+      <path d="M0,0 L400,0 L400,400 L0,400z"/>
+    </clipPath>
+    <style>
+</style>
+  </defs>
+  <g clip-path="url(#__lottie_element_2)">
+    <g clip-path="url(#__lottie_element_23)" transform="matrix(0.8500000238418579,0,0,0.8500000238418579,89.5,187.5)" opacity="1" style="display: block;">
+      <g id="photo1" class="png" transform="matrix(1.1799399852752686,0,0,1.1799399852752686,0.0001678466796875,0.0001678466796875)" opacity="1" style="display: block;">
+        <image width="339px" height="339px" preserveAspectRatio="xMidYMid slice" data-echo-vinyl-cover="main"/>
+      </g>
+    </g>
+    <g class="png" transform="matrix(1,0,0,1,0,255)" opacity="1" style="display: block;">
+      <image width="720px" height="568px" preserveAspectRatio="xMidYMid slice" xlink:href="img/bg_1.webp"/>
+    </g>
+    <g class="png" transform="matrix(1,0,0,1,57,436)" opacity="1" style="display: block;">
+      <image width="570px" height="230px" preserveAspectRatio="xMidYMid slice" xlink:href="img/bg_0.webp"/>
+    </g>
+    <g clip-path="url(#__lottie_element_4)" transform="matrix(0.47999998927116394,0,0,0.12999999523162842,258,522.5)" opacity="1" style="display: block;">
+      <g mask="url(#__lottie_element_7_1)" style="display: block;">
+        <g id="photo2" class="png" transform="matrix(1.1799399852752686,0,0,1.1799399852752686,0.0001678466796875,0.0001678466796875)" opacity="1">
+          <image width="339px" height="339px" preserveAspectRatio="xMidYMid slice" data-echo-vinyl-cover="disc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
