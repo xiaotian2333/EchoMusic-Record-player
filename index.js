@@ -175,7 +175,7 @@ function injectVinylStyles() {
       width: 100% !important;
       height: 100% !important;
       display: block !important;
-      overflow: visible !important;
+      overflow: hidden !important;
     }
 
     .echo-vinyl-needle-frame {
